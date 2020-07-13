@@ -1,0 +1,18 @@
+name = "CatastropheMachine"
+uuid = "98c6d910-79a1-48f6-9e1b-2b1eb986b6da"
+authors = ["Sascha Timme <sascha@timme.xyz>"]
+version = "0.1.0"
+
+[deps]
+AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+HomotopyContinuation = "f213a82b-91d6-5c5d-acf7-10f1c761b327"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MakieLayout = "5a521ce4-ebb9-4793-b5b7-b334dfe8393c"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[compat]
+AbstractPlotting = "0.11.2"
+GLMakie = "0.1.5"
+HomotopyContinuation = "2.0.2"
+MakieLayout = "0.9.9"
